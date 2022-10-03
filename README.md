@@ -1,8 +1,8 @@
 # star-toucher
 ## Touch the Sun: Parker Solar Probe's Journey
-** Team: Star Toucher **
+***Team: Star Toucher***
 
-** Motto: Touch the sun, and sea of stars! ** 
+***Motto: Touch the sun, and sea of stars!*** 
 
 We are a team of two kids (9 and 11 years old) who like astronomy, chemistry, drawing comics and playing board game.
 
