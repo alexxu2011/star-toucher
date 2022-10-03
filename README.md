@@ -1,5 +1,10 @@
 # star-toucher
-Touch the Sun: Parker Solar Probe's Journey from Team: Star Toucher for NASA Space Apps 2022
+## Touch the Sun: Parker Solar Probe's Journey
+** Team: Star Toucher **
+
+** Motto: Touch the sun, and sea of stars! ** 
+
+We are a team of two kids (9 and 11 years old) who like astronomy, chemistry, drawing comics and playing board game.
 
 ## High-Level Project Summary
 
@@ -8,7 +13,7 @@ We created a hand-drawn comic to tell young audiences the story of Parker Solar 
 Our team also made the board game that main characters were playing in the comic, to help young audiences learn about Parker Solar Probe’s journey in an interactive way.
 
 ## Link to Project "Demo"
-[Touch the Sun: Parker Solar Probe’s Journey] (https://docs.google.com/presentation/d/1_axSOY6cjkfL0_AHdMrwelSkXeVzkeWY33kyV6vZcL8/edit?usp=sharing)
+[Touch the Sun: Parker Solar Probe’s Journey](https://docs.google.com/presentation/d/1_axSOY6cjkfL0_AHdMrwelSkXeVzkeWY33kyV6vZcL8/edit?usp=sharing)
 
 ## Detailed Project Description
 
@@ -171,13 +176,24 @@ Our team actually made the board game that my characters are playing in my comic
   <img src="boardgame/Boardgame.jpg" width="850" />
 </p>
 
+### Making the Comic
+[Comic Making Timelapse Video](https://youtu.be/hwYVBUp-9qM)
+
+### Making the Board Game
+[Board Game Making Timelapse Video](https://youtu.be/jBzf0MiyYs4)
+
+### Playing the Board Game
+[Let's Play the Board Game](https://youtu.be/mXy0hKtQCj8)
+
 ## SPACE AGENCY DATA
 We used space agency data to enrich the knowledge and facts in our comic and board game. The main data and information we used are:
 
 Parker Solar Probe
+
 https://www.nasa.gov/content/goddard/parker-solar-probe
 
 Parker Solar Probe - NASA Solar System Exploration
+
 https://solarsystem.nasa.gov/missions/parker-solar-probe/in-depth/
 
 We obtained detailed information about the Parker Solar Probe from NASA’s website, for example we learned that the probe was named after Eugene Parker. It’s the first NASA mission named for a living researcher, and it’s humanity’s first mission to explore the sun up close. 
@@ -185,23 +201,29 @@ We obtained detailed information about the Parker Solar Probe from NASA’s webs
 We drew a portrait for Professor Eugene Parker in our comic and include all this fascinating information.
 
 Delta IV Parker Solar Probe Mission Booklet
+
 https://www.ulalaunch.com/docs/default-source/launch-booklets/divh_parkersolarprobe_mob.pdf
 
 We learned about the Delta IV heavy rocket, which carried Parker Solar Probe to space. We included the rocket and launch information into our comic and board game.
 
 The Mission - Parker Solar Probe
+
 http://parkersolarprobe.jhuapl.edu/The-Mission/index.php
 
 We obtained Parker probe’s orbit information from JHU Applied Physics Laboratory Parker Solar Probe project site, and explained them in our comic and board game.
 
 Parker Solar Probe Heat Shield
+
 https://www.nasa.gov/feature/goddard/2018/traveling-to-the-sun-why-won-t-parker-solar-probe-melt
+
 https://www.nasa.gov/feature/goddard/2018/cutting-edge-heat-shield-installed-on-nasa-s-parker-solar-probe
+
 https://hub.jhu.edu/2018/08/06/parker-solar-probe-heat-shield-explained/
 
 We explained the material and design of Parker’s head shield, and how it protected the probe from the sun. We learned these fantastic facts from NASA’s space agency sites.
 
 Layers of the Sun
+
 https://www.nasa.gov/mission_pages/iris/multimedia/layerzoo.html
 
 As the finale of our comic, we depicted a humorous video about the sun. We learned this knowledge and data from NASA’s sites.
@@ -217,6 +239,7 @@ Tools we used in our project:
 Hands, paper, cardboard, pencils, pens and screen tone. Zero carbon emissions from our Space Apps project!
 
 Data and Resources: 
+
 https://www.nasa.gov/content/goddard/parker-solar-probe
 
 https://www.nasa.gov/content/parker-solar-probe-media-resources
