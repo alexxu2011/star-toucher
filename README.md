@@ -155,20 +155,20 @@ Solar Phenomena-IBLVideo playing on WatchDonut+ streaming platform
 
 Note: IBL stands for Ice Box Labs
 
-2. Ice Box: Hello! Welcome back to WatchDonut! Since my channel, IBLVideo, just hit 3 million likes on all of my videos, today I’m going to give you a peek at the sun’s feature!
+2. (In the video) Ice Box: Hello! Welcome back to WatchDonut! Since my channel, IBLVideo, just hit 3 million likes on all of my videos, today I’m going to give you a peek at the sun’s feature!
 
-3. Technically, the radiation is a special type called EMR, but that’s complicated physics.
+3. (In the video) Technically, the radiation is a special type called EMR, but that’s complicated physics.
 A solar flare happens when there is a burst of radiation in an area of the sun.
 
-4. A Coronal Mass Ejection (CME) happens when a huge amount of plasma is released from the sun’s corona (see page 5). They can sometimes cause power outages!
+4. (In the video) A Coronal Mass Ejection (CME) happens when a huge amount of plasma is released from the sun’s corona (see page 5). They can sometimes cause power outages!
 
-5. High speed solar wind is solar wind (wind coming from the sun that is made of particles) that is especially fast. Eugene Parker worked with the twisting pattern in the solar wind!
+5. (In the video) High speed solar wind is solar wind (wind coming from the sun that is made of particles) that is especially fast. Eugene Parker worked with the twisting pattern in the solar wind!
 
-6. Solar energetic particles are particles with lots of energy that come from the sun. They are very helpful to scientists who want to study solar material!
+6. (In the video) Solar energetic particles are particles with lots of energy that come from the sun. They are very helpful to scientists who want to study solar material!
 
 7. Ice Box, Charcoal, Robo-Dictionary and Chemistry Bot (all together): “The End!”
 
-### Hand-crafted Board Game:
+### Hand-Crafted Board Game:
 
 Our team actually made the board game that my characters are playing in my comic. Most of the tiles, like “Aliens!”, “Malfunction”, and “Cruisin’” actually feature in the comic! For people who don’t know the rules, there’s an instructions section with all of the details about our game.
 
@@ -185,7 +185,7 @@ Our team actually made the board game that my characters are playing in my comic
 ### Playing the Board Game
 [Let's Play the Board Game](https://youtu.be/mXy0hKtQCj8)
 
-## SPACE AGENCY DATA
+## Space Agency Data
 We used space agency data to enrich the knowledge and facts in our comic and board game. The main data and information we used are:
 
 Parker Solar Probe
@@ -228,12 +228,12 @@ https://www.nasa.gov/mission_pages/iris/multimedia/layerzoo.html
 
 As the finale of our comic, we depicted a humorous video about the sun. We learned this knowledge and data from NASA’s sites.
 
-## HACKATHON JOURNEY
+## Hackathon Journey
 It was a very fun and educational journey for our Space Apps hackathon project. We made a comic about the Parker Solar Probe and its journey to the sun, and a board game that is playable. We learned a lot about not only the Parker probe (for example it’s the fastest human-made object and first human-made object to enter the sun’s atmosphere), but also the scientist who the probe was named after, as well as our sun. 
 
 We hope more people, especially young audiences, would know about the Parker Solar Probe by reading our comic and playing the board game.
 
-## REFERENCES
+## References
 Tools we used in our project:
 
 Hands, paper, cardboard, pencils, pens and screen tone. Zero carbon emissions from our Space Apps project!
@@ -262,5 +262,5 @@ https://hub.jhu.edu/2018/08/06/parker-solar-probe-heat-shield-explained/
 
 https://www.nasa.gov/mission_pages/iris/multimedia/layerzoo.html
 
-## TAGS
+## Tags
 #art #comic #boardgame #sun #parker
